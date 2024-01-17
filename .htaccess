@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName “sample”
+AuthUserFile C:\Users\C0117253\Desktop\JavaScipt\html\.htpasswd
+require valid-user
